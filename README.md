@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @SI-tech-bit
-- 👀 I’m interested in Blockchain & E-FI-tech era
-- 🌱 I’m currently learning the different code
-- 💞️ I’m looking to collaborate on Blockchain Project
-- 📫 How to reach me tape > on Google account>havyarimanasimon44@gmail.com
 
-<!---
-SI-tech-bit/SI-tech-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Founding Pi-ecommercebdideals, is the Burundi Deals Pi-Ecommerce Project ,The one in the  best and great Local projects aimed to serve Burundians  Pioneers for differents Products and also will Use  to importing & export different products from Abroad in Supporting GCV!
+https://github.com/SI-tech-bit/local-commerce-hub
