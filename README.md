@@ -1,3 +1,2 @@
 
-Founding Pi-ecommercebdideals, is the Burundi Deals Pi-Ecommerce Project ,The one in the  best and great Local projects aimed to serve Burundians  Pioneers for differents Products and also will Use  to importing & export different products from Abroad in Supporting GCV!
-https://github.com/SI-tech-bit/local-commerce-hub
+Founding Sofinabdideals, Is an app in Pi Ecosystem that can be used to become the same time as an online & Offline Local Markert Place , Import & export as default in  supporting GCV PRICE! https://github.com/SI-tech-bit/local-commerce-hub
